@@ -1,0 +1,90 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:471112647157:function:babdb4a4-15d1-404b-a377-6b302b6b0dc8:Release_0"
+        },
+        "interfaces": [],
+        "locales": {},
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:471112647157:function:babdb4a4-15d1-404b-a377-6b302b6b0dc8:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:471112647157:function:babdb4a4-15d1-404b-a377-6b302b6b0dc8:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:471112647157:function:babdb4a4-15d1-404b-a377-6b302b6b0dc8:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "automaticClonedLocale": {
+        "locales": [
+          {
+            "source": "en-IN"
+          }
+        ]
+      },
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "en-CA": {
+          "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
+          "examplePhrases": [
+            "Alexa chat"
+          ],
+          "keywords": [],
+          "name": "orange answers",
+          "summary": "ChatGPT in Alexa"
+        },
+        "en-US": {
+          "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
+          "examplePhrases": [
+            "Alexa chat"
+          ],
+          "keywords": [],
+          "name": "orange answers",
+          "summary": "ChatGPT in Alexa"
+        },
+        "en-IN": {
+          "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
+          "examplePhrases": [
+            "Alexa chat"
+          ],
+          "keywords": [],
+          "name": "orange answers",
+          "summary": "ChatGPT in Alexa"
+        },
+        "en-AU": {
+          "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
+          "examplePhrases": [
+            "Alexa chat"
+          ],
+          "keywords": [],
+          "name": "orange answers",
+          "summary": "ChatGPT in Alexa"
+        },
+        "en-GB": {
+          "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
+          "examplePhrases": [
+            "Alexa chat"
+          ],
+          "keywords": [],
+          "name": "orange answers",
+          "summary": "ChatGPT in Alexa"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions"
+    }
+  }
+}
